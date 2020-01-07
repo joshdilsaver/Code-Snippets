@@ -22,3 +22,6 @@ class to any link.  Also, please note that the href can be any link.  So, it wil
 
 To change both width and height:
 https://themify.me?width=80%&height=80%
+
+# iThemes Sync - Unhiding synced sites
+when you navigate to _yoursite.com_/wp-admin/plugins.php?ithemes-sync-force-display=1, Sync should be visible in the wp-dashboard > Settings (for 10 minutes). During that time, it's probably best to unhide the site from the Sync dashboard (https://sync.ithemes.com/). You can then unsync the site (also from the dashboard) and try to manually Sync.
